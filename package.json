@@ -6,7 +6,7 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/%40Neuroo_FE/wechat-user-iterator.git"
+    "url": "git+https://github.com/Neuroo_FE/wechat-user-iterator.git"
   },
   "keywords": [
     "wechat",
@@ -16,9 +16,9 @@
   "author": "yupeng.kuo <yupeng.kuo@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/%40Neuroo_FE/wechat-user-iterator/issues"
+    "url": "https://github.com/Neuroo_FE/wechat-user-iterator/issues"
   },
-  "homepage": "https://github.com/%40Neuroo_FE/wechat-user-iterator#readme",
+  "homepage": "https://github.com/Neuroo_FE/wechat-user-iterator#readme",
   "dependencies": {
     "async": "^2.5.0",
     "wechat-api": "^1.35.1"
