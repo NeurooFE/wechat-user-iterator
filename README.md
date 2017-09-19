@@ -33,7 +33,7 @@ iterator
 | appId | String | 特殊可选 | 微信公众号appId |
 | appSecret | String | 特殊可选 | 微信公众号appSecret |
 | getToken | Function | 特殊可选 | 获取access_token函数。<br/>当使用此参数时，可省略`appId`和`appSecret`。<br/>详情见[wechat-api 多进程](https://github.com/node-webot/wechat-api#多进程) |
-| concurrent | Number | 否 | 并发数。默认为10 |
+| concurrent | Number | 否 | 并发数。默认为1 |
 
 ### UserIterator实例方法
 
